@@ -23,7 +23,7 @@ def index():
     # returnにtitleとnameの変数を追加。
 
 #POSTの時の処理
-#とりあえず関数を返してみたいけど返せない。なぜ？
+#returnの前でも返せない。なぜ？
 @app.route("/result", methods=['POST'])
 def post():
     colon_ca()
