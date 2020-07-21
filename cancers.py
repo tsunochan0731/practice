@@ -1,2 +1,3 @@
-def colon_ca():
+#PUSH用
+ef colon_ca():
     return "大腸癌"

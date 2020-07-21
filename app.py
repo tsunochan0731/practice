@@ -1,5 +1,6 @@
 #Flaskとrender_template（HTMLを表示させるための関数）をインポート
 #ライブラリを使用する際のお約束
+#Push用
 from flask import Flask,render_template, request
 import cancers
 import sys
